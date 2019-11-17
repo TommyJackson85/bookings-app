@@ -1,7 +1,0 @@
-{
-    "env": {
-        "MONGO_USER": "tommyJackson85",
-        "MONGO_PASSWORD": "megapussyjuice666",
-        "MONGO_DB": "storage-spaces"
-    }
-}
